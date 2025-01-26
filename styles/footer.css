@@ -1,0 +1,50 @@
+.footer{
+  width: 100%; /* Full width of the viewport */
+  background-color: burlywood; 
+  z-index: 1; 
+  display: flex;
+  flex-direction: column;
+  height: 150px;
+  margin-top: 70px;
+  margin-right: 250px;
+}
+
+
+.socialmedia{
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-around;
+  margin-right: 26px;
+  margin-left: 32px;
+
+}
+
+
+.terms{
+  margin-top: 40px;
+}
+
+.textsocial ,.terms{
+  font-size: 18px;
+  font-weight: 500;
+  margin-left: 12px;
+  
+  font-family: 'Times New Roman', Times, serif;
+}
+
+.link{
+  text-decoration: none;
+  color: black;
+}
+
+.top{
+  width: 20px;
+  height: 20px;
+  position: absolute;
+  right: 5px;
+  top: -37px;
+  z-index: 100;
+ 
+}
