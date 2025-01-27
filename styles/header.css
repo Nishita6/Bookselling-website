@@ -10,6 +10,10 @@
   align-items: center;
 }
 
+.home:hover{
+  font-size: 20px;
+}
+
 .icon{
 position: absolute;
 background-color: wheat;
@@ -51,6 +55,10 @@ right: -38px;
 
 .Categories:hover{
   cursor: pointer;
+ font-size: 20px;
+ .booksoption{
+  left: 88px;
+ }
 }
 
 .categorieslist ul {
@@ -81,6 +89,10 @@ white-space: nowrap;
   margin-left: 19px;
 }
 
+.about:hover{
+  font-size: 20px;
+}
+
 .categorieslist {
   
   opacity: 0;
@@ -99,8 +111,10 @@ white-space: nowrap;
   font-family: 'Times New Roman', Times, serif;
   white-space: nowrap;
   margin-top: 200px;
-  
- 
+}
+
+.cont:hover{
+  font-size: 20px;
 }
 
 .mail, .address{

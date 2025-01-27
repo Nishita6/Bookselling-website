@@ -24,6 +24,13 @@
    white-space: nowrap;
  }
  
+ .booktitle:hover{
+  cursor: pointer;
+ }
+
+ .bookauthor:hover{
+  cursor: pointer;
+ }
 
  .book-info-grid{
    display: grid;
