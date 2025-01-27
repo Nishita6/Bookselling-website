@@ -46,6 +46,11 @@ right: -38px;
 
 .Categories {
   position: relative;
+  
+}
+
+.Categories:hover{
+  cursor: pointer;
 }
 
 .categorieslist ul {
